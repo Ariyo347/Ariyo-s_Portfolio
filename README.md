@@ -10,4 +10,5 @@ An overview of my work
 * Created a tool to group and examine 340 stocks based on performnce, value and company health
 * Optimized K-means and Hierarchical clusters to reach the best model
 * Defined profiles of stocks based on the cluster groups and the attributes and characteristics of these stocks to help decision makers with identifying the best stocks for investment
+
 ![image](https://github.com/Ariyo347/Ariyo-s_Portfolio/assets/113588909/45678c05-f25d-48fb-a028-307dfae9d7f5)
