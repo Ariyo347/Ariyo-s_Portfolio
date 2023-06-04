@@ -1,6 +1,3 @@
-# Adekunle Abiona's Portfolio
-An overview of my work
-
 # [Project 1: Cab Investment Analysis: Project Overview](https://github.com/Ariyo347/Cab-Investment-Analysis)
 Go-to-Market(G2M) Analysis for 2 cab companies in 20 cities
 * Created a tool to analyse cab business in major cities of the United States of America to identify the best cab company(s) to invest in and which cities are the most lucrative for business as well as the factors that help maximize profits.
